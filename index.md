@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is the home page for the project. Here are examples of **bold**, _italic_, or ~~strikethrough~~ text.
 
 [Link to another page](./another-page.html).
 
